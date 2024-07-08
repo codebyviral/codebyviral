@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codebyviral](https://github.com/codebyviral)
 
-- 📝 I regularly write articles on [https://homieflix.vercel.app/newsroom](https://homieflix.vercel.app/newsroom)
+- 📝 I regularly write articles on [Medium](https://medium.com/@viralvaghela2641)
 
 - 📫 How to reach me **viralvaghela.dev@gmail.com**
 
