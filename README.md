@@ -21,7 +21,6 @@
 
 - ⚡ Fun fact **Buy me a Coffee ☕️**
 
-<p align="left"><a href="https://app.daily.dev/viralvaghela96"><img src="https://api.daily.dev/devcards/v2/j6tTJAx9a2Fjt9tjysT0J.png?type=default&r=zft" width="356" alt="Viral Vaghela's Dev Card"/></a></p>
 <p align="left">
 </p>
 
@@ -33,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyviral&show_icons=true&locale=en" alt="codebyviral" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyviral&" alt="codebyviral" /></p>
+
+<p align="left"><a href="https://app.daily.dev/viralvaghela96"><img src="https://api.daily.dev/devcards/v2/j6tTJAx9a2Fjt9tjysT0J.png?type=default&r=zft" width="356" alt="Viral Vaghela's Dev Card"/></a></p>
+
