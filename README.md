@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyviral&" alt="codebyviral" /></p>
 
-<a href="https://app.daily.dev/viralvaghela96"><img src="https://api.daily.dev/devcards/v2/j6tTJAx9a2Fjt9tjysT0J.png?type=default&r=igp" width="356" alt="Viral Vaghela's Dev Card"/></a>
+
 
