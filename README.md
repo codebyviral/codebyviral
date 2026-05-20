@@ -1,35 +1,98 @@
-<h1 align="center">Hi 👋, I'm Viral Vaghela</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Hey there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyviral&label=Profile%20views&color=0e75b6&style=flat" alt="codebyviral" /> </p>
+I’m **Viral Vaghela**, a Full Stack Developer based in India.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyviral" alt="codebyviral" /></a> </p>
+I specialize in building scalable, user-focused web applications and crafting polished digital experiences. I like turning ideas into real products fast — prototype, iterate, ship.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+My core tech stack includes **React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB**, and modern frontend tooling. I enjoy creating clean interfaces, smooth UX, and performant full-stack applications.
 
-- 🌱 I’m currently learning **Typescript, Docker, testing frameworks**
+---
 
-- 👯 I’m looking to collaborate on [Homieflix 🎈](https://homieflix.vercel.app)
+# 🚀 Favorite Project
 
-- 👨‍💻 All of my projects are available at [https://github.com/codebyviral](https://github.com/codebyviral)
+My favorite project is **Homieflix 🎈** — a modern streaming-inspired web platform focused on clean UI and engaging user experience.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@viralvaghela2641)
+🔗 [Visit Homieflix](https://homieflix.vercel.app)
 
-- 📫 How to reach me **viralvaghela.dev@gmail.com**
+I actively work on freelance projects, personal products, and open source to sharpen my engineering skills and improve product thinking.
 
-- ⚡ Fun fact **Buy me a Coffee ☕️**
+---
 
-<p align="left">
+# 🛠️ Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Appwrite
+
+### Tools & Platforms
+- Git
+- Postman
+- Docker *(learning)*
+- Testing Frameworks *(learning)*
+
+---
+
+# 🌱 Currently Learning
+
+- TypeScript Deep Dive
+- Docker
+- Testing Frameworks
+- Scalable Backend Architecture
+
+---
+
+# 🤝 Open For
+
+- Freelance Opportunities
+- Full Stack Collaborations
+- Open Source Contributions
+- Building SaaS Products
+
+---
+
+# 📬 Connect With Me
+
+- GitHub: [@codebyviral](https://github.com/codebyviral)
+- Medium: [@viralvaghela2641](https://medium.com/@viralvaghela2641)
+- Email: **viralvaghela.dev@gmail.com**
+
+---
+
+# ⚡ Fun Facts
+
+- I love building polished UI with micro animations
+- Coffee > everything ☕
+- I enjoy anime and gaming
+- I obsess over clean design systems
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyviral&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyviral&theme=tokyonight" alt="streak" />
+</p>
 
+---
 
+# 💭 Philosophy
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyviral&show_icons=true&locale=en" alt="codebyviral" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyviral&" alt="codebyviral" /></p>
-
-
-
+> Build fast.  
+> Learn constantly.  
+> Design with intention.  
+> Ship products people actually enjoy using.
